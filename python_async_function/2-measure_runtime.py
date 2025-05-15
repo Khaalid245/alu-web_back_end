@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Measure the runtime of asynchronous function
+Measure the runtime of asynchronous functi
 """
 
 import asyncio
